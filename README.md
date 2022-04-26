@@ -35,7 +35,20 @@ http://decomadrid.ddns.net:8001/1:0:19:7824:428:1:C00000:0:0:0:
 http://decomadrid.ddns.net:8001/1:0:19:78B8:3EC:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="19" tvg-id="AMC.es" tvg-name="AMC HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Series",AMC
 http://decomadrid.ddns.net:8001/1:0:19:7533:426:1:C00000:0:0:0:
-
+#EXTINF:-1 tvg-chno="21" tvg-id="AXNWhite.es" tvg-name="AXN WHITE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Series",AXN WHITE
+http://decomadrid.ddns.net:8001/1:0:19:78BE:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="22" tvg-id="Scifi.es" tvg-name="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Series",SYFY
+http://decomadrid.ddns.net:8001/1:0:19:7825:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="25" tvg-id="FDF.es" tvg-name="FDF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="Series",FDF
+http://decomadrid.ddns.net:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="26" tvg-id="Neox.es" tvg-name="NEOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="Series",NEOX
+http://decomadrid.ddns.net:8001/1:0:1:7587:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="27" tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="Series",Atreseries
+https://directo.atresmedia.com/ff8b7f2e358688f7cdd748ad2d0ec26252a20849_1650994750/geoa3series/bitrate_3.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="M.Fest.es" tvg-name="M. Fest" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" group-title="Series",M. Fest
+http://decomadrid.ddns.net:8001/1:0:19:74FF:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="106" tvg-id="MTV.es" tvg-name="MTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="Series",MTV
+http://mtv.com
 
 
 
@@ -88,8 +101,6 @@ http://decomadrid.ddns.net:8001/1:0:19:7531:426:1:C00000:0:0:0:
 http://decomadrid.ddns.net:8001/1:0:19:782D:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.Estrenos.es" tvg-name="M.ESTRENOSHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine y Series",M. Estrenos
 http://decomadrid.ddns.net:8001/1:0:19:7539:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="NEOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="Cine y Series",NEOX
-http://decomadrid.ddns.net:8001/1:0:1:7587:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.Estrenos2.es" tvg-name="M. ESTRENOS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" group-title="Cine y Series",M. Estrenos 2
 http://decomadrid.ddns.net:8001/1:0:19:74D4:3F8:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.Clasicos.es" tvg-name="M. CLASICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Cine y Series",M. CLASICOS
@@ -102,16 +113,10 @@ http://decomadrid.ddns.net:8001/1:0:19:7509:420:1:C00000:0:0:0:
 http://decomadrid.ddns.net:8001/1:0:19:750B:420:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="DCineEsp.es" tvg-name="M. Cine Espanol" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Cine y Series",M. Cine Espanol
 http://decomadrid.ddns.net:8001/1:0:1:7736:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="Scifi.es" tvg-name="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Cine y Series",SYFY
-http://decomadrid.ddns.net:8001/1:0:19:7825:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="FDF.es" tvg-name="FDF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="Cine y Series",FDF
-http://decomadrid.ddns.net:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="Energy.es" tvg-name="ENERGY" tvg-logo="" group-title="Cine y Series",ENERGY
 http://decomadrid.ddns.net:8001/1:0:1:749F:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="FoxLife.es" tvg-name="FOX LIFE HD" tvg-logo="" group-title="Cine y Series",FOX LIFE
 http://decomadrid.ddns.net:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="AXN WHITE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Cine y Series",AXN WHITE
-http://decomadrid.ddns.net:8001/1:0:19:78BE:3EC:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="ext" tvg-name="MLaCasadePapel" tvg-logo="" group-title="Cine y Series",M.La Casa de Papel
 http://decomadrid.ddns.net:8001/1:0:1:749D:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="Hollywood.es" tvg-name="HOLLYWOODHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Cine y Series",HOLLYWOOD
@@ -144,8 +149,6 @@ http://decomadrid.ddns.net:8001/1:0:1:778A:424:1:C00000:0:0:0:
 http://decomadrid.ddns.net:8001/1:0:19:7884:414:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="CrimeAndInvestigation.es" tvg-name="CRIMEN+INVES" tvg-logo="" group-title="Naturaleza - Documentales",Crimen + Investigacion
 http://decomadrid.ddns.net:8001/1:0:1:7732:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.Fest.es" tvg-name="M. Fest" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" group-title="Naturaleza - Documentales",M. Fest
-http://decomadrid.ddns.net:8001/1:0:19:74FF:420:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/telemicro5/picture?width=200&height=200" group-title="Int. América" tvg-name="Telemicro República Dominicana",Telemicro República Dominicana
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RFEF/picture?width=200&height=200" group-title="Deportivos" tvg-name="Real Federación Española de Fútbol",Real Federación Española de Fútbol
