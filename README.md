@@ -160,5 +160,5 @@ http://decomadrid.ddns.net:8001/1:0:1:7731:416:1:C00000:0:0:0:
 http://decomadrid.ddns.net:8001/1:0:1:772F:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="Odisea.es" tvg-name="CANAL ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="Documentales",CANAL ODISEA
 http://decomadrid.ddns.net:8001/1:0:1:778A:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CrimeAndInvestigation.es" tvg-name="CRIMEN+INVES" tvg-logo="" group-title="Documentales",Crimen + Investigacion
+#EXTINF:-1 tvg-id="AMCCrime.es" tvg-name="AMC Crime" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Documentales",AMC Crime
 http://decomadrid.ddns.net:8001/1:0:1:7732:416:1:C00000:0:0:0:
