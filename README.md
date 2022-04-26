@@ -48,8 +48,51 @@ https://directo.atresmedia.com/ff8b7f2e358688f7cdd748ad2d0ec26252a20849_16509947
 #EXTINF:-1 tvg-chno="37" tvg-id="M.Fest.es" tvg-name="M. Fest" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" group-title="Series",M. Fest
 http://decomadrid.ddns.net:8001/1:0:19:74FF:420:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="106" tvg-id="MTV.es" tvg-name="MTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="Series",MTV
-http://mtv.com
+http://FALTALINK
 
+
+#EXTINF:-1 tvg-chno="23" tvg-id="Energy.es" tvg-name="ENERGY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="Estilo de vida",ENERGY
+http://decomadrid.ddns.net:8001/1:0:1:749F:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="78" tvg-id="AMC Crime.es" tvg-name="AMC Crime" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Estilo de vida",AMC Crime
+http://FALTALINK
+#EXTINF:-1 tvg-chno="79" tvg-id="Decasa.es" tvg-name="CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="Estilo de vida",CANAL DECASA
+http://decomadrid.ddns.net:8001/1:0:1:7795:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="80" tvg-id="Cocina.es" tvg-name="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Estilo de vida",CANAL COCINA
+http://decomadrid.ddns.net:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="81" tvg-id="Divinity.es" tvg-name="DIVINITY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="Estilo de vida",DIVINITY
+http://decomadrid.ddns.net:8001/1:0:1:749A:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="82" tvg-id="Nova.es" tvg-name="NOVA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="Estilo de vida",NOVA
+https://directo.atresmedia.com/892e0613b2982340629febeceec3aded95960a57_1650996733/geonova/bitrate_1.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-id="Mega.es" tvg-name="MEGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="Estilo de vida",MEGA
+https://directo.atresmedia.com/821c7a9376e0c36e624ac1ce14515ab5b804cdb6_1650996549/geomega/bitrate_1.m3u8
+#EXTINF:-1 tvg-chno="84" tvg-id="BeMad.es" tvg-name="BEMAD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="Estilo de vida",BEMAD
+https://FALTALINK
+
+
+#EXTINF:-1 tvg-chno="28" tvg-id="M.VeryBritish" tvg-name="M+ Very British" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBRIT.png" group-title="Cine",M+ Very British
+http://decomadrid.ddns.net:8001/1:0:1:749D:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="M.Estrenos.es" tvg-name="M.ESTRENOSHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine",M. Estrenos
+http://decomadrid.ddns.net:8001/1:0:19:7539:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="M.Estrenos2.es" tvg-name="M. ESTRENOS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" group-title="Cine",M. Estrenos 2
+http://decomadrid.ddns.net:8001/1:0:19:74D4:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="M.Clasicos.es" tvg-name="M. CLASICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Cine",M. CLASICOS
+http://decomadrid.ddns.net:8001/1:0:19:78BF:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="M.Accion.es" tvg-name="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine",M. ACCION
+http://decomadrid.ddns.net:8001/1:0:19:7509:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="M.Comedia.es" tvg-name="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Cine",M.COMEDIA
+http://decomadrid.ddns.net:8001/1:0:19:7857:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="M.Drama.es" tvg-name="M. DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Cine",M. DRAMA
+http://decomadrid.ddns.net:8001/1:0:19:750B:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="M+ Platino.es" tvg-name="M+ Platino" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Cine",M+ Platino
+http://decomadrid.ddns.net:8001/1:0:1:7736:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="TCM HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="Cine",TCM HD
+http://decomadrid.ddns.net:8001/1:0:19:7885:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="HOLLYWOODHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Cine",HOLLYWOOD
+http://decomadrid.ddns.net:8001/1:0:19:750C:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="Sundance.es" tvg-name="SUNDANCE TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="Cine",SUNDANCE TV
+http://decomadrid.ddns.net:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="Paramount.es" tvg-name="PARAMOUNT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="Cine",PARAMOUNT
+http://decomadrid.ddns.net:8001/1:0:1:756B:412:1:C00000:0:0:0:
 
 
 
@@ -59,25 +102,28 @@ http://mtv.com
 
 #EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Futbol",M. La Liga
 http://decomadrid.ddns.net:8001/1:0:19:750F:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-name="M.LCAMPEONES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Futbol",M. Liga de Campeones
-http://decomadrid.ddns.net:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="Futbol",DAZN 1
-http://decomadrid.ddns.net:8001/1:0:19:7855:41A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="M. LaLiga 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="Futbol",M. La Liga 1
 http://decomadrid.ddns.net:8001/1:0:19:7853:41A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="M. LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="Futbol",M. La Liga 2
 http://decomadrid.ddns.net:8001/1:0:19:74CD:3F8:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="M. LaLiga 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="Futbol",M. La Liga 3
 http://decomadrid.ddns.net:8001/1:0:19:74D3:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-name="M.LCAMPEONES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Futbol",M. Liga de Campeones
+http://decomadrid.ddns.net:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LigaCampeones1.es" tvg-name="M.LCAMPEON1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Futbol",M. Liga de Campeones 1
 http://decomadrid.ddns.net:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LigaCampeones2.es" tvg-name="M.LCAMPEON2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="Futbol",M. Liga de Campeones 2
 http://decomadrid.ddns.net:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="Futbol",DAZN 2
+
+
+
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="Deportes",DAZN 1
+http://decomadrid.ddns.net:8001/1:0:19:7855:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="Deportes",DAZN 2
 http://decomadrid.ddns.net:8001/1:0:19:785F:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN3.es" tvg-name="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="Futbol",DAZN 3
+#EXTINF:-1 tvg-id="DAZN3.es" tvg-name="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="Deportes",DAZN 3
 http://decomadrid.ddns.net:8001/1:0:19:74D8:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="Futbol",DAZN 4
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="Deportes",DAZN 4
 http://decomadrid.ddns.net:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="EUROSPORT1HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes",EUROSPORT 1
 http://decomadrid.ddns.net:8001/1:0:19:7826:428:1:C00000:0:0:0:
@@ -99,57 +145,20 @@ http://decomadrid.ddns.net:8001/1:0:19:78B7:3EC:1:C00000:0:0:0:
 http://decomadrid.ddns.net:8001/1:0:19:7531:426:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="CanalPlusToros.es" tvg-name="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Deportes",TOROS
 http://decomadrid.ddns.net:8001/1:0:19:782D:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.Estrenos.es" tvg-name="M.ESTRENOSHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine y Series",M. Estrenos
-http://decomadrid.ddns.net:8001/1:0:19:7539:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.Estrenos2.es" tvg-name="M. ESTRENOS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" group-title="Cine y Series",M. Estrenos 2
-http://decomadrid.ddns.net:8001/1:0:19:74D4:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.Clasicos.es" tvg-name="M. CLASICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Cine y Series",M. CLASICOS
-http://decomadrid.ddns.net:8001/1:0:19:78BF:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.Comedia.es" tvg-name="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Cine y Series",M.COMEDIA
-http://decomadrid.ddns.net:8001/1:0:19:7857:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.Accion.es" tvg-name="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine y Series",M. ACCION
-http://decomadrid.ddns.net:8001/1:0:19:7509:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.Drama.es" tvg-name="M. DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Cine y Series",M. DRAMA
-http://decomadrid.ddns.net:8001/1:0:19:750B:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DCineEsp.es" tvg-name="M. Cine Espanol" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Cine y Series",M. Cine Espanol
-http://decomadrid.ddns.net:8001/1:0:1:7736:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="ENERGY" tvg-logo="" group-title="Cine y Series",ENERGY
-http://decomadrid.ddns.net:8001/1:0:1:749F:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="FoxLife.es" tvg-name="FOX LIFE HD" tvg-logo="" group-title="Cine y Series",FOX LIFE
-http://decomadrid.ddns.net:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="ext" tvg-name="MLaCasadePapel" tvg-logo="" group-title="Cine y Series",M.La Casa de Papel
-http://decomadrid.ddns.net:8001/1:0:1:749D:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="HOLLYWOODHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Cine y Series",HOLLYWOOD
-http://decomadrid.ddns.net:8001/1:0:19:750C:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="Sundance.es" tvg-name="SUNDANCE TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="Cine y Series",SUNDANCE TV
-http://decomadrid.ddns.net:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="Paramount.es" tvg-name="PARAMOUNT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="Cine y Series",PARAMOUNT
-http://decomadrid.ddns.net:8001/1:0:1:756B:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TCM.es" tvg-name="TCM HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="Cine y Series",TCM HD
-http://decomadrid.ddns.net:8001/1:0:19:7885:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="Decasa.es" tvg-name="CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="Hogar",CANAL DECASA
-http://decomadrid.ddns.net:8001/1:0:1:7795:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="Cocina.es" tvg-name="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="Hogar",CANAL COCINA
-http://decomadrid.ddns.net:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="DIVINITY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="Hogar",DIVINITY
-http://decomadrid.ddns.net:8001/1:0:1:749A:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="Naturaleza - Documentales",CAZA y PESCA
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" group-title="Deportes",CAZA y PESCA
 http://decomadrid.ddns.net:8001/1:0:19:788D:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NatGeoHD.es" tvg-name="NAT GEO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="Naturaleza - Documentales",NAT GEO HD
+
+
+
+#EXTINF:-1 tvg-id="NatGeoHD.es" tvg-name="NAT GEO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="Documentales",NAT GEO HD
 http://decomadrid.ddns.net:8001/1:0:19:7829:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="wild-hd" tvg-name="NG WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Naturaleza - Documentales",NG WILD HD
+#EXTINF:-1 tvg-id="wild-hd" tvg-name="NG WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Documentales",NG WILD HD
 http://decomadrid.ddns.net:8001/1:0:19:7889:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="Historia.es" tvg-name="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="Naturaleza - Documentales",HISTORIA
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="Documentales",HISTORIA
 http://decomadrid.ddns.net:8001/1:0:1:7731:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DiscoveryChannel.sp" tvg-name="DISCOVERY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="Naturaleza - Documentales",DISCOVERY
+#EXTINF:-1 tvg-id="DiscoveryChannel.sp" tvg-name="DISCOVERY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="Documentales",DISCOVERY
 http://decomadrid.ddns.net:8001/1:0:1:772F:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="Odisea.es" tvg-name="CANAL ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="Naturaleza - Documentales",CANAL ODISEA
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="CANAL ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="Documentales",CANAL ODISEA
 http://decomadrid.ddns.net:8001/1:0:1:778A:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="Viajar.sp" tvg-name="VIAJAR HD" tvg-logo="" group-title="Naturaleza - Documentales",VIAJAR HD
-http://decomadrid.ddns.net:8001/1:0:19:7884:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CrimeAndInvestigation.es" tvg-name="CRIMEN+INVES" tvg-logo="" group-title="Naturaleza - Documentales",Crimen + Investigacion
+#EXTINF:-1 tvg-id="CrimeAndInvestigation.es" tvg-name="CRIMEN+INVES" tvg-logo="" group-title="Documentales",Crimen + Investigacion
 http://decomadrid.ddns.net:8001/1:0:1:7732:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/telemicro5/picture?width=200&height=200" group-title="Int. América" tvg-name="Telemicro República Dominicana",Telemicro República Dominicana
-https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RFEF/picture?width=200&height=200" group-title="Deportivos" tvg-name="Real Federación Española de Fútbol",Real Federación Española de Fútbol
-https://rfef-live3.flumotion.com/playlist.m3u8
